@@ -5,4 +5,4 @@ Every year my family runs a big competition to see who can predict the winners o
 
 For the program I used Python's NumPy.
 
-You can find all of my python code in this project in the file learn.py.
+You can find all of my python code in this project in the file "Learn.py".
