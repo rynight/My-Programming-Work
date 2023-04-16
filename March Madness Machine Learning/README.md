@@ -4,3 +4,5 @@ March Madness refers to two massive college basektball tournaments held in the U
 Every year my family runs a big competition to see who can predict the winners of the tournament the best, and it gets very competitive. I made this Program to try to use machine learning to predict the winners of each game using data on all of the teams from the previous 15+ years.
 
 For the program I used Python's NumPy.
+
+You can find all of my python code in this project in the file learn.py.
